@@ -1,4 +1,4 @@
 project using HTML , CSS , JS 
-1. STONE PAPER SCISSORS 
-2. CURRENCY CONVERTOR
-3. 
+1. StonePaperScissors 
+2. CurrencyConvertor
+3. TicTacToe
